@@ -1,0 +1,51 @@
+---
+title: "Assigment - Data Driven Decision Making"
+author: "Robin Wijs" 
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+    bibliography: bibliography.json
+    
+---
+
+
+
+*3DM being used at Airbnb case example*
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EPji2e2XwDk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Why was data driven decision making (3DM) useful in this business case?
+
+Data-driven decision-making means basing decisions on the analysis of data, rather than purely on intuition [@provost&fawcett]
+
+3DM is used by Airbnb because 3DM will lead to well informed decisions. Airbnb company vision is to create the best customer experience. they continuously try to improve this experience by looking at past data of users. but with a company with millions of customers from across the globe, it is impossible to analyse this manually. they need data mining for that. 
+
+Data mining is used for general customer relationship management to analyze customer behavior  in  order  to  manage  attrition  and  maximize  expected  customer  value.[@provost&fawcett]
+
+using the data from their userbase gives Airbnb insight on what they need to know from any customer, anywhere, so they can make tailored decisions for each customer segment.
+
+
+## How did the organization apply 3DM?
+
+Airbnb uses data science in every aspect of their business, and they also require everybody on the team to have knowledge on data science. this is a very smart move, because if every employee is thinking from a 3DM perspective, it will allow them to interact competently, but will also help to see data-oriented competitive threats.[@provost&fawcett]
+
+
+
+in their first example they show how they use 3DM to improve the contact between guest and host by changing a banner. with data analytics the results are quickly measured because the new banner resulted in an increase in contact. 
+Not only an increase in performance is measured, but with data science there is an opportunity to dive deeper into the result. for example where it is underperforming geographically and demographically. 
+ 
+
+
+
+## What can the organization do with 3DM that they couldn’t do before?
+
+Airbnb uses data science as 1 of their 4 pilars for their product teams. controlled experiments is a fundamental building block for Airbnb. they use 3DM instead of human predictions. 
+
+instead of making a prediction of what the outcome of a measure will be, they conduct an experiment with a sample. then using data science to see if their experiment has the wanted outcome. only after the analysis they will make a decision. 
+before 3DM all their decisions were intuitive which made forecasting much harder because they weren't conducting experiments before.
+
+## bibliography
+
